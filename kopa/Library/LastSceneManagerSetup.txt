@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/kj.unity
-  isLoaded: 1
-  isActive: 1
